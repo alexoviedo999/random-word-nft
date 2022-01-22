@@ -1,1 +1,1 @@
-# Epic NFTs: Deployed with random word to Rikeby testnet.
+# Random Word NFTs: Deployed with random words to Rikeby testnet.
